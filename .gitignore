@@ -1,0 +1,21 @@
+# R temporary files
+.RData
+.RDataTmp*
+.Rhistory
+.Rproj.user/
+
+# Large data files (too big for GitHub - 100MB limit)
+**/Traffic_Crashes_-_Crashes.csv
+**/Traffic_Crashes_-_People.csv
+**/Traffic_Crashes_-_Vehicles.csv
+**/Speed_Camera_Violations.csv
+panel_all_month.csv
+sf_crashes_dataset_meters_500.csv
+
+# Large media files
+*.mp4
+
+# Project files to ignore
+Final_Project_Report.docx
+Final_Project_Report.pdf
+Presentation/
